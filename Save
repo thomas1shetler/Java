@@ -1,0 +1,25 @@
+
+public class letter {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+public static void  sign() {
+	System.out.println(" -Love thomas!");
+	}
+public static void Letter1() {
+	System.out.println("dear thomas \n Hi Thomas wuddup? you better be keeping good grades. \n Stay out of trouble aight? ");;
+	sign();
+}
+public static void Letter2() {
+	System.out.println("Dear Harambe \n How are you doing up there?  Keeping out of trouble I hope? \n We miss you greatly, we all hope your in a better place..");
+	System.out.println(" \" .-------." );
+	System.out.println(" \"( ( o o ) )");
+	System.out.println(" \" | )'|'( | ");
+	System.out.println(" \"| (-----) |");
+	sign();
+	}
+
+}
